@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TeslaClone",
-    "slug": "TeslaClone",
+    "name": "TeslaModels",
+    "slug": "teslamodels",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "This is a tesla clone application which displays four of tesla's flagship models (Model S, Model 3, Model X, MODEL Y along with the price and a button to place the custom order."
   }
 }
